@@ -24,7 +24,7 @@ const Profile = ({
   const url =
     process.env.NODE_ENV === "development"
       ? "evilworld.com:3000"
-      : "www.aqualightoption.com";
+      : "www.zipoaid.com";
 
   const handleUpdateWallets = async () => {
     const { data, error } = await supabase

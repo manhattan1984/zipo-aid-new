@@ -171,7 +171,7 @@ function PlasmicContact__RenderFunc(props: {
                 href={"https://www.plasmic.app/" as const}
                 platform={"nextjs"}
               >
-                {"support@aqualightoption.com"}
+                {"support@zipoaid.com"}
               </p.PlasmicLink>
             ),
             value: args.slot2

@@ -189,7 +189,7 @@ function PlasmicContactPage__RenderFunc(props: {
                           sty.link__iFddq
                         )}
                         component={Link}
-                        href={"mailto:support@aquamining.com" as const}
+                        href={"mailto:support@zipoaid.com" as const}
                         platform={"nextjs"}
                       >
                         {"support@zipoaid.com"}

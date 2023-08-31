@@ -47,7 +47,7 @@ const SignIn = () => {
         <div className="max-w-md mx-auto p-4 shadow m-4 rounded bg-white flex flex-col gap-3 w-full">
           <p className="text-center text-md text-blue-900 uppercase">Sign In</p>
           <div className="text-center my-2">
-            <p className="text-3xl text-teal-400">Aqualight Option</p>
+            <p className="text-3xl text-yellow-400">Zipo Aid</p>
           </div>
 
           <div className="">

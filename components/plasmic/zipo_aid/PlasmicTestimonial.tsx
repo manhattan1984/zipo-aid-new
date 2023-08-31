@@ -140,7 +140,7 @@ function PlasmicTestimonial__RenderFunc(props: {
       <div className={classNames(projectcss.all, sty.freeBox__o31I)}>
         {p.renderPlasmicSlot({
           defaultContents:
-            "AquaLight Option has transformed the way I view investing. Their strategies have consistently delivered impressive results, giving me the confidence to secure my financial future.",
+            "Zipo aid has transformed the way I view investing. Their strategies have consistently delivered impressive results, giving me the confidence to secure my financial future.",
           value: args.children
         })}
       </div>

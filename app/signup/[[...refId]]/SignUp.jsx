@@ -72,9 +72,9 @@ const SignUp = ({ referral_id }) => {
     if (user) {
       sendEmailToUser(
         email,
-        "Welcome To Aqualight Option",
+        "Welcome To Zipo aid",
         `Your Account details: <br /> Email: ${email} <br /> Password: ${password} <br />
-        Log Into your account: <a href="https://www.aqualightoption.com/signin">Log In</a>
+        Log Into your account: <a href="https://www.zipoaid.com/signin">Log In</a>
         `
       );
       toast.success("Sign Up Successful", {
@@ -98,7 +98,7 @@ const SignUp = ({ referral_id }) => {
             Sign Up
           </p>
           <div className="text-center my-2">
-            <p className="text-3xl">Aqualight Option</p>
+            <p className="text-3xl">Zipo aid</p>
           </div>
           <div className="flex gap-2">
             <div className="w-full">
@@ -182,7 +182,7 @@ const SignUp = ({ referral_id }) => {
               name=""
               id=""
             />
-            <p className="text-xs">I agree to Aqualight Option terms of use</p>
+            <p className="text-xs">I agree to Zipo aid terms of use</p>
           </div>
           <div className="">
             <HCaptcha
