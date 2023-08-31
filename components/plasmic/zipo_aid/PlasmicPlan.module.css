@@ -1,0 +1,316 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  background: #ffffff;
+  min-width: 0;
+  border-radius: 4px;
+  padding: var(--token-uYBZNL1P_6gm);
+  border: 1px solid var(--token-KIpi40GnASat);
+}
+.freeBox__sM5BP {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: var(--token-cwXBKyst0naA);
+}
+.slotTargetChildren {
+  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--token-ht1wrsaFbfvI);
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .slotTargetChildren {
+    font-size: 18px;
+  }
+}
+.freeBox__ppydo {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-bottom: var(--token-cwXBKyst0naA);
+  padding-top: var(--token-cwXBKyst0naA);
+  min-width: 0;
+}
+.freeBox__ppydo > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - var(--token-cwXBKyst0naA));
+  height: calc(100% + var(--token-cwXBKyst0naA));
+}
+.freeBox__ppydo > :global(.__wab_flex-container) > *,
+.freeBox__ppydo > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__ppydo > :global(.__wab_flex-container) > picture > img,
+.freeBox__ppydo
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: var(--token-cwXBKyst0naA);
+}
+.freeBox__nTlma {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text__xMCyX {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__fkC1D {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetSlot3 {
+  font-size: 18px;
+}
+.freeBox__sicQu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text___0EJCr {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__p26Rp {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetSlot6 {
+  font-size: 18px;
+}
+.freeBox__sjeg7 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text__lKaYr {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox___8EdMn {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__wTer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox__f1N6L {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetSlot2 {
+  font-size: 18px;
+}
+.freeBox__mckSh {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text__shXeA {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__v5Qwm {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__vh4Iq {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox__ieCao {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.freeBox__ieCao > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.freeBox__ieCao > :global(.__wab_flex-container) > *,
+.freeBox__ieCao > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__ieCao > :global(.__wab_flex-container) > picture > img,
+.freeBox__ieCao
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 4px;
+}
+.slotTargetSlot7 {
+  font-size: 18px;
+}
+.text__snZjD {
+  font-size: 18px;
+}
+.freeBox__gjS0I {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text___1Dst8 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox___2A2Yq {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__zXh9A {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox___8DcSp {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetSlot5 {
+  font-size: 18px;
+}
+.freeBox__m3Ff8 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.slotTargetSlot {
+  font-weight: 700;
+}
+.freeBox__tppkU {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  margin-top: var(--token-uYBZNL1P_6gm);
+}
+.button__juCBh:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  margin-top: 0;
+}
+.svg___6GR6A {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg___8LiEk {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}

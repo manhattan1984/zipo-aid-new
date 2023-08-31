@@ -1,0 +1,69 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  background: #ffffff;
+  position: relative;
+  min-width: 0;
+  border-radius: 4px;
+  padding: var(--token-uYBZNL1P_6gm);
+}
+.svg__wmRdH {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.freeBox___9Rh6I {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-top: var(--token-rXETaqYQ_vSW);
+  padding-bottom: var(--token-cwXBKyst0naA);
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.freeBox__s6WHh {
+  display: flex;
+  position: relative;
+}
+.slotTargetSlot3 {
+  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--token-b4F8rhns-iFE);
+}
+.freeBox__xr1Pz {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-bottom: var(--token-uYBZNL1P_6gm);
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.freeBox__a1Q {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.link__xxj4F {
+  color: var(--token-b4F8rhns-iFE);
+  text-decoration-line: underline;
+  font-weight: 700;
+}
